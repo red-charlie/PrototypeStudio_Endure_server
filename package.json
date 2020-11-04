@@ -1,0 +1,21 @@
+{
+  "name": "prototypestudio_endureserver",
+  "version": "1.0.0",
+  "description": "a Quick server app for the prototype prompt \"endure\" in the fall 2020 prototype studio course at NYU",
+  "main": "index.js",
+  "dependencies": {
+    "nodejs": "^0.0.0",
+    "nodemon": "^2.0.6",
+    "save": "^2.4.0",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "!test"
+  },
+  "keywords": [
+    "prototype"
+  ],
+  "author": "Charlie Harper",
+  "license": "ISC"
+}
