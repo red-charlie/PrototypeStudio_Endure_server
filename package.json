@@ -1,7 +1,7 @@
 {
   "name": "prototypestudio_endureserver",
   "version": "1.0.0",
-  "description": "a Quick server app for the prototype prompt \"endure\" in the fall 2020 prototype studio course at NYU",
+  "description": "a Quick server app for the prototype prompt endrre in the fall 2020 prototype studio course at NYU",
   "main": "server.js",
   "dependencies": {
     "express": "^4.17.1",
